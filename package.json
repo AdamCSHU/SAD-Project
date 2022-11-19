@@ -16,9 +16,12 @@
   "bugs": {
     "url": "https://github.com/AdamCSHU/SAD-Project/issues"
   },
-  
   "homepage": "https://github.com/AdamCSHU/SAD-Project#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2",
+    "multer": "^1.4.5-lts.1"
   }
 }
